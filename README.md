@@ -13,6 +13,7 @@ Users can log recurring activities with presets, organize them into three core c
 - A visual grid layout that represents time clearly, using 5 minutes per cell and 1 hour per row for easy scanning.
 
 **Why This Project Matters**
+
 This project is designed for people who want to understand how they actually spend their time, not just plan it.
 By turning abstract time into visible patterns and summaries, timing helps users build more intentional daily habits.
 
