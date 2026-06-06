@@ -2,6 +2,7 @@
 gonna build what I want with gpt
 
 **Overview**
+
 timing is a grid-based personal time tracking app that helps users record how they spend their day through a simple and visual interface.
 Users can log recurring activities with presets, organize them into three core categories — Focus, Rest, and Other — and review how their time is distributed across the day.
 
